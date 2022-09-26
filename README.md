@@ -1,4 +1,4 @@
-Repository with artifacts for TODO.
+Repository with artifacts for https://medium.com/@enryu9000/lookism-in-tiktok-3def0f20cf78.
 
 Notebooks are in the `*.ipynb` files, checkpoints for the models from these notebooks - in the `checkpoints` subdirectory (one can `load_model()` them).
 
